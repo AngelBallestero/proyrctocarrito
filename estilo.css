@@ -1,0 +1,21 @@
+form{
+    vertical-align: top;
+    background-color: aqua;
+    max-width: 20px;
+
+}
+
+form input[type="text"]
+form input[type="text"]{
+    background-color: aqua;
+
+}
+
+form input[type="submit"]{
+    
+    margin: 15px;
+    background-color: aqua;
+    padding: 10px;
+    border-radius: 10px;
+}
+
